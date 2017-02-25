@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb 23, 2017
 
 ### Student Name:  
-(First and Last Name)
+Adam Feldhaus
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I changed values in the code that was presented to me. This way it matched the values presented to me in the table. I also fixed the clear buttons to properly clear everything.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://afeldhaus.github.io/lesson5_javascript2/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using the getElementById line to complete various tasks. 
+2. We learned about and how to use arrays to our advantage. 
+3. Our class also covered different types of loops. 
